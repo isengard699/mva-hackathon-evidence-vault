@@ -1,0 +1,2 @@
+variant_id,gene,hgvs_c,hgvs_p,zygosity,pair_id,EPCR,hypothesis,rationale
+chrN:0000000:REF:ALT,GEN,c.000A>G,p.Xxx000Xxx,het,par1,0.85,H001,Una linea. Con fuente.
